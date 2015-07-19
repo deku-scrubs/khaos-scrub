@@ -1,7 +1,7 @@
 
-# khaos-node
+# khaos-scrub
 
-A Khaos template to start new node.js projects quickly.
+A Khaos template to make a new scrub.
 
 ## Installation
 
