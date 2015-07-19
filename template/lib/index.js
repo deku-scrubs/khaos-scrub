@@ -4,7 +4,6 @@
 
 import {element} from 'deku'
 
-
 /**
  * Render
  */
