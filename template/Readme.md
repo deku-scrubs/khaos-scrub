@@ -7,7 +7,7 @@
 
 ## Installation
 
-    $ npm install {{basename}}
+    $ npm install @deku-scrubs/{{basename}}
 
 {{#mit}}
 ## License

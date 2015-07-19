@@ -1,21 +1,20 @@
 /**
- * Modules
+ * Imports
  */
+
+import {element} from 'deku'
+
 
 /**
- * Vars
+ * Render
  */
 
-/**
- * Expose {{basename}}
- */
-
-module.exports = {{basename}}
-
-/**
- * {{basename}}
- */
-
-function {{basename}} () {
+function render (component) {
 
 }
+
+/**
+ * Exports
+ */
+
+export default {render}

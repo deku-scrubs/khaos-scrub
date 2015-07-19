@@ -7,13 +7,13 @@ A Khaos template to start new node.js projects quickly.
 
 Save the template locally with:
 
-    $ khaos install weo-edu/khaos-node node
+    $ khaos install @deku-scrubs/khaos-scrub scrub
 
 ## Usage
 
 Create a new node.js project with:
 
-    $ khaos node my-project
+    $ khaos scrub my-project
 
 ## License
 
