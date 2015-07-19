@@ -28,7 +28,7 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "2.x",
-    "@deku-scrubs/standard": "^4.0.0",
+    "@deku-scrubs/standard": "^5.0.0",
     "babelify": "^6.1.3",
     "deku": "^0.4.11",
     "mochify": "^2.10.0",
