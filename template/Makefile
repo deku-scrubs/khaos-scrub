@@ -14,7 +14,7 @@ node_modules: package.json
 	@touch node_modules
 
 test: node_modules
-	@${BIN}/mochify --transform babelify --phantomjs ./node_modules/.bin/phantomjs --ui bdd
+	${BIN}/browserify ./test/index.js | ${BIN}/tape-run
 
 validate: node_modules
 	@${BIN}/standard
