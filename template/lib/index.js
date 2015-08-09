@@ -2,7 +2,7 @@
  * Imports
  */
 
-import {element} from 'deku'
+import element from 'magic-virtual-element'
 
 /**
  * Render
