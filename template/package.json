@@ -16,7 +16,7 @@
     ]
   },
   "dependencies": {
-    "magic-virtual-element": "*"
+    "virtual-element": "*"
   },
   "devDependencies": {
     "@deku-scrubs/standard": "*",

@@ -2,13 +2,13 @@
  * Imports
  */
 
-import element from 'magic-virtual-element'
+import element from 'virtual-element'
 
 /**
  * Render
  */
 
-function render (component) {
+function render ({props}) {
 
 }
 
